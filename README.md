@@ -1,4 +1,5 @@
 # Code-Snippets
 - Excellent sample projects
-- Detailed API to reference
-- Fixed configuration to reference
+- Detailed API for reference
+- Fixed configuration for reference
+- Discarded code for reference
